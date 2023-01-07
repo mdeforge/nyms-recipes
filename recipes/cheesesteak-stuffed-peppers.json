@@ -1,0 +1,100 @@
+{
+    "name": "Cheesesteak Stuffed Peppers",
+    "ingredients": [
+        {
+            "quantity": 4,
+            "unit": "whole",
+            "name": "bell peppers",
+            "prep": "halved",
+            "type": "meat"
+        },
+        {
+            "quantity": 1,
+            "unit": "tbsp",
+            "name": "vegetable oil",
+            "type": "oil"
+        },
+        {
+            "quantity": 1,
+            "unit": "whole",
+            "name": "large onion",
+            "prep": "sliced",
+            "type": "vegetable"
+        },
+        {
+            "quantity": 0,
+            "unit": "to taste",
+            "name": "salt",
+            "type": "seasoning"
+        },
+        {
+            "quantity": 0,
+            "unit": "to taste",
+            "name": "pepper",
+            "type": "seasoning"
+        },
+        {
+            "quantity": 1.5,
+            "unit": "lbs",
+            "name": "sirloin steak",
+            "prep": "thinly sliced",
+            "type": "meat"
+        },
+        {
+            "quantity": 2,
+            "unit": "tsp",
+            "name": "italian seasoning",
+            "type": "seasoning"
+        },
+        {
+            "quantity": 16,
+            "unit": "slices",
+            "name": "provolone",
+            "type": "cheese"
+        }
+    ],
+    "steps": [
+        "Preheat oven to 325º. Place peppers in a large baking dish and bake until tender, 30 minutes.",
+        "Meanwhile, in a large skillet over medium-high heat, heat oil. Add onions and mushrooms and season with salt and pepper. Cook until soft, 6 minutes. Add steak and season with more salt and pepper. Cook, stirring occasionally, 3 minutes. Stir in Italian seasoning.",
+        "Add provolone to bottom of baked peppers and top with steak mixture. Top with another piece of provolone and broil until golden, 3 minutes."
+    ],
+    "time": {
+        "prep": 10,
+        "total": 35
+    },
+    "servings": 4,
+    "nutrition": [
+        {
+            "type": "calories",
+            "amount": 0,
+            "unit": "kcal"
+        },
+        {
+            "type": "carbs",
+            "amount": 0,
+            "unit": "g"
+        },
+        {
+            "type": "protein",
+            "amount": 0,
+            "unit": "g"
+        },
+        {
+            "type": "fat",
+            "amount": 0,
+            "unit": "g"
+        },
+        {
+            "type": "satured fat",
+            "amount": 0,
+            "unit": "g"
+        },
+        {
+            "type": "fiber",
+            "amount": 0,
+            "unit": "g"
+        }
+    ],
+    "imageURL": "images/cheesesteak-stuffed-peppers-recipe.jpg",
+    "originalURL": "https://www.delish.com/cooking/recipe-ideas/recipes/a51551/cheesesteak-stuffed-peppers-recipe/"
+}

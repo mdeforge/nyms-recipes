@@ -1,0 +1,91 @@
+{
+    "name": "Cheese N' Bacon Omelet",
+    "ingredients": [
+        {
+            "quantity": 3,
+            "unit": "whole",
+            "name": "eggs",
+            "type": "protein"
+        },
+        {
+            "quantity": 0.5,
+            "unit": "cups",
+            "name": "cheddar cheese",
+            "prep": "shredded",
+            "type": "cheese"
+        },
+        {
+            "quantity": 2,
+            "unit": "strips",
+            "name": "bacon",
+            "prep": "sliced",
+            "type": "meat"
+        },
+        {
+            "quantity": 0.5,
+            "unit": "cups",
+            "name": "yellow onion",
+            "prep": "chopped",
+            "type": "vegetable"
+        },
+        {
+            "quantity": 0,
+            "unit": "to taste",
+            "name": "salt",
+            "type": "seasoning"
+        },
+        {
+            "quantity": 0,
+            "unit": "to taste",
+            "name": "pepper",
+            "type": "seasoning"
+        }
+    ],
+    "steps": [
+        ""
+    ],
+    "time": {
+        "prep": 0,
+        "total": 0
+    },
+    "servings": 6,
+    "nutrition": [
+        {
+            "type": "calories",
+            "amount": 0,
+            "unit": "kcal"
+        },
+        {
+            "type": "carbs",
+            "amount": 0,
+            "unit": "g"
+        },
+        {
+            "type": "protein",
+            "amount": 0,
+            "unit": "g"
+        },
+        {
+            "type": "fat",
+            "amount": 0,
+            "unit": "g"
+        },
+        {
+            "type": "cholesterol",
+            "amount": 0,
+            "unit": "mg"
+        },
+        {
+            "type": "fiber",
+            "amount": 0,
+            "unit": "g"
+        },
+        {
+            "type": "net carbs",
+            "amount": 0,
+            "unit": "g"
+        }
+    ],
+    "imageURL": "",
+    "originalURL": ""
+}

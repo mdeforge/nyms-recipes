@@ -1,0 +1,127 @@
+{
+    "name": "Fathead Pizza",
+    "ingredients": [
+        {
+            "quantity": 1.5,
+            "unit": "cups",
+            "name": "mozzarella cheese",
+            "prep": "shredded",
+            "type": "cheese"
+        },
+        {
+            "quantity": 1,
+            "unit": "tbsp",
+            "name": "garlic seasoning",
+            "type": "seasoning"
+        },
+        {
+            "quantity": 2,
+            "unit": "tbsp",
+            "name": "cream cheese",
+            "type": "dairy"
+        },
+        {
+            "quantity": 0.75,
+            "unit": "cups",
+            "name": "almond flour",
+            "type": "flour"
+        },
+        {
+            "quantity": 1,
+            "unit": "tsp",
+            "name": "white wine vinegar",
+            "type": "vinegar"
+        },
+        {
+            "quantity": 1,
+            "unit": "whole",
+            "name": "egg",
+            "type": "protein"
+        },
+        {
+            "quantity": 8,
+            "unit": "ounces",
+            "name": "italian sausage",
+            "type": "meat"
+        },
+        {
+            "quantity": 1,
+            "unit": "tbsp",
+            "name": "butter",
+            "type": "butter"
+        },
+        {
+            "quantity": 0.5,
+            "unit": "cups",
+            "name": "unsweetened tomato sauce",
+            "type": "sauce"
+        },
+        {
+            "quantity": 0.5,
+            "unit": "tsp",
+            "name": "oregano",
+            "type": "seasoning"
+        },
+        {
+            "quantity": 1.5,
+            "unit": "cups",
+            "name": "mozzarella cheese",
+            "prep": "shredded",
+            "type": "cheese"
+        },
+        {
+            "quantity": 0,
+            "unit": "to taste",
+            "name": "salt",
+            "type": "seasoning"
+        }
+    ],
+    "steps": [
+        "Preheat the oven to 400°F (200°C).",
+        "Mix 1.5 cups of mozzarella, cream cheese, garlic, white wine vinegar, egg, almond flour, and salt in a bowl",
+        "Moisten your hands with olive oil and flatten the dough on parchment paper, making a circle about 8\" (20 cm) in diameter. You can also use a rolling pin to flatten the dough between two sheets of parchment paper.",
+        "Remove the top parchment sheet (if used). Prick the crust with a fork (all over) and bake in the oven for 10–15 minutes until golden brown. Remove from the oven.",
+        "While the crust is baking, sautée the ground sausage meat in olive oil or butter.",
+        "Spread a thin layer of tomato sauce on the crust. Top the pizza with meat and plenty of cheese. Bake for 10–15 minutes or until the cheese has melted.",
+        "Sprinkle with oregano and enjoy!"
+    ],
+    "time": {
+        "prep": 10,
+        "total": 35
+    },
+    "servings": 4,
+    "nutrition": [
+        {
+            "type": "calories",
+            "amount": 0,
+            "unit": "kcal"
+        },
+        {
+            "type": "carbs",
+            "amount": 0,
+            "unit": "g"
+        },
+        {
+            "type": "protein",
+            "amount": 0,
+            "unit": "g"
+        },
+        {
+            "type": "fat",
+            "amount": 0,
+            "unit": "g"
+        },
+        {
+            "type": "satured fat",
+            "amount": 0,
+            "unit": "g"
+        },
+        {
+            "type": "fiber",
+            "amount": 0,
+            "unit": "g"
+        }
+    ],
+    "imageURL": "images/fathead-pizza.png",
+    "originalURL": "https://www.dietdoctor.com/recipes/fat-head-pizza"
+}

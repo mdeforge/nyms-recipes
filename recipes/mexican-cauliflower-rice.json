@@ -1,0 +1,102 @@
+{
+    "name": "Mexican Cauliflower Rice",
+    "ingredients": [
+        {
+            "quantity": 1,
+            "unit": "lb",
+            "name": "ground beef",
+            "type": "meat"
+        },
+        {
+            "quantity": 0.25,
+            "unit": "onion",
+            "name": "medium onion",
+            "prep": "diced",
+            "type": "vegetable"
+        },
+        {
+            "quantity": 0.5,
+            "unit": "pepper",
+            "name": "red pepper",
+            "prep": "diced",
+            "type": "vegetable"
+        },
+        {
+            "quantity": 3,
+            "unit": "tbsp",
+            "name": "taco seasoning",
+            "type": "seasoning"
+        },
+        {
+            "quantity": 1,
+            "unit": "cups",
+            "name": "tomatoes",
+            "prep": "diced",
+            "type": "fruit"
+        },
+        {
+            "quantity": 12,
+            "unit": "ounces",
+            "name": "cauliflower rice",
+            "type": "grain"
+        },
+        {
+            "quantity": 0.5,
+            "unit": "cups",
+            "name": "chicken broth",
+            "type": "stock"
+        },
+        {
+            "quantity": 1.5,
+            "unit": "cups",
+            "name": "cheddar cheese",
+            "prep": "shredded",
+            "type": "cheese"
+        }
+    ],
+    "steps": [
+        "In a large skillet over medium heat, brown the ground beef until almost cooked through (just a little pink). Add the onion and pepper and continue to cook until no longer pink. Stir in the taco seasoning.",
+        "Add the tomatoes and cauliflower rice and stir to combine. Stir in the broth and bring to a simmer. Reduce the heat to medium low and cook until the cauliflower rice begins to soften (8 to 10 minutes for frozen).",
+        "Sprinkle the skillet with the cheese and cover. Let cook until the cheese is melted, 3 or 4 minutes.",
+        "Remove from heat and top with your favourite toppings like sour cream, avocado, and chopped cilantro."
+    ],
+    "time": {
+        "prep": 0,
+        "total": 25
+    },
+    "servings": 6,
+    "nutrition": [
+        {
+            "type": "calories",
+            "amount": 352,
+            "unit": "kcal"
+        },
+        {
+            "type": "carbs",
+            "amount": 6.4,
+            "unit": "g"
+        },
+        {
+            "type": "protein",
+            "amount": 29.1,
+            "unit": "g"
+        },
+        {
+            "type": "fat",
+            "amount": 21.7,
+            "unit": "g"
+        },
+        {
+            "type": "cholesterol",
+            "amount": 96,
+            "unit": "mg"
+        },
+        {
+            "type": "fiber",
+            "amount": 2,
+            "unit": "g"
+        }
+    ],
+    "imageURL": "images/mexican-cauliflower-rice.png",
+    "originalURL": "https://alldayidreamaboutfood.com/low-carb-mexican-cauliflower-rice/"
+}

@@ -1,0 +1,95 @@
+{
+    "name": "Garlic Rosemary Pork Chops",
+    "ingredients": [
+        {
+            "quantity": 4,
+            "unit": "whole",
+            "name": "pork chops",
+            "type": "meat"
+        },
+        {
+            "quantity": 0,
+            "unit": "to taste",
+            "name": "salt",
+            "type": "seasoning"
+        },
+        {
+            "quantity": 0,
+            "unit": "to taste",
+            "name": "pepper",
+            "type": "seasoning"
+        },
+        {
+            "quantity": 1,
+            "unit": "tbsp",
+            "name": "rosemary",
+            "prep": "minced",
+            "type": "herb"
+        },
+        {
+            "quantity": 2,
+            "unit": "cloves",
+            "name": "garlic",
+            "prep": "minced",
+            "type": "vegetable"
+        },
+        {
+            "quantity": 1,
+            "unit": "stick",
+            "name": "butter",
+            "prep": "melted",
+            "type": "butter"
+        },
+        {
+            "quantity": 1,
+            "unit": "tbsp",
+            "name": "extra virgin olive oil",
+            "type": "oil"
+        }
+    ],
+    "steps": [
+        "Preheat oven to 375°. Season pork chops generously with salt and pepper.",
+        "In a small bowl mix together butter, rosemary, and garlic. Set aside.",
+        "In an oven safe skillet over medium-high heat, heat olive oil then add pork chops. Sear until golden, 4 minutes, flip and cook 4 minutes more. Brush pork chops generously with garlic butter.",
+        "Place skillet in oven and cook until cooked through (145° for medium), 10-12 minutes. Serve with more garlic butter."
+    ],
+    "time": {
+        "prep": 10,
+        "total": 30
+    },
+    "servings": 4,
+    "nutrition": [
+        {
+            "type": "calories",
+            "amount": 460,
+            "unit": "kcal"
+        },
+        {
+            "type": "carbs",
+            "amount": 1,
+            "unit": "g"
+        },
+        {
+            "type": "protein",
+            "amount": 39,
+            "unit": "g"
+        },
+        {
+            "type": "fat",
+            "amount": 33,
+            "unit": "g"
+        },
+        {
+            "type": "satured fat",
+            "amount": 17,
+            "unit": "g"
+        },
+        {
+            "type": "fiber",
+            "amount": 0,
+            "unit": "g"
+        }
+    ],
+    "imageURL": "images/garlic-rosemary-pork-chops.jpg",
+    "originalURL": "https://www.delish.com/cooking/recipe-ideas/a58720/oven-baked-pork-chops-recipe/"
+}

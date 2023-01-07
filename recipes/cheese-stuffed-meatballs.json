@@ -1,0 +1,117 @@
+{
+    "name": "Cheese-Stuffed Meatballs",
+    "ingredients": [
+        {
+            "quantity": 0.5,
+            "unit": "lbs",
+            "name": "ground beef",
+            "type": "meat"
+        },
+        {
+            "quantity": 0.5,
+            "unit": "lbs",
+            "name": "ground pork",
+            "type": "meat"
+        },
+        {
+            "quantity": 0.25,
+            "unit": "cups",
+            "name": "almond flour",
+            "type": "flour"
+        },
+        {
+            "quantity": 1,
+            "unit": "tsp",
+            "name": "parsley",
+            "prep": "dried",
+            "type": "herb"
+        },
+        {
+            "quantity": 0.5,
+            "unit": "tsp",
+            "name": "garlic powder",
+            "type": "seasoning"
+        },
+        {
+            "quantity": 0.25,
+            "unit": "tsp",
+            "name": "shallot powder",
+            "type": "seasoning"
+        },
+        {
+            "quantity": 1,
+            "unit": "large",
+            "name": "egg",
+            "type": "protein"
+        },
+        {
+            "quantity": 3,
+            "unit": "oz",
+            "name": "montery jack cheese",
+            "prep": "cubed",
+            "type": "cheese"
+        },
+        {
+            "quantity": 0.5,
+            "unit": "cups",
+            "name": "paste sauce",
+            "type": "sauce"
+        },
+        {
+            "quantity": 0.25,
+            "unit": "cups",
+            "name": "parmesan cheese",
+            "prep": "grated",
+            "type": "cheese"
+        },
+        {
+            "quantity": 0,
+            "unit": "to taste",
+            "name": "salt",
+            "type": "seasoning"
+        },
+        {
+            "quantity": 0,
+            "unit": "to taste",
+            "name": "pepper",
+            "type": "seasoning"
+        }
+    ],
+    "steps": [
+        "Preheat the Air Fryer to 360°F.",
+        "In a bowl, combine the ground beef, ground pork, almond flour, parsley, garlic powder, shallot powder, egg, salt, and pepper and knead with your hands.",
+        "Shape the mixture into meatballs.",
+        "Place a cheese cube in the middle of each ball. Seal the meat around the cheese. Repeat with the remaining ingredients.",
+        "Arrange the meatballs in the air fryer basket and AirFry for 14-16 minutes or until cooked through and golden.",
+        "Remove the meatballs to a platter, pour over pasta sauce, and sprinkle with parmesan cheese."
+    ],
+    "time": {
+        "prep": 0,
+        "total": 30
+    },
+    "servings": 4,
+    "nutrition": [
+        {
+            "type": "calories",
+            "amount": 445,
+            "unit": "kcal"
+        },
+        {
+            "type": "carbs",
+            "amount": 1.9,
+            "unit": "g"
+        },
+        {
+            "type": "protein",
+            "amount": 29.9,
+            "unit": "g"
+        },
+        {
+            "type": "fat",
+            "amount": 30,
+            "unit": "g"
+        }
+    ],
+    "imageURL": "",
+    "originalURL": ""
+}

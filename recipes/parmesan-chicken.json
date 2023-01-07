@@ -1,0 +1,129 @@
+{
+    "name": "Parmesan Chicken",
+    "ingredients": [
+        {
+            "quantity": 3,
+            "unit": "large",
+            "name": "chicken breast",
+            "type": "meat"
+        },
+        {
+            "quantity": 0.5,
+            "unit": "cups",
+            "name": "parmesan cheese",
+            "type": "cheese"
+        },
+        {
+            "quantity": 0.5,
+            "unit": "cups",
+            "name": "almound flour",
+            "type": "flour"
+        },
+        {
+            "quantity": 0.5,
+            "unit": "tsp",
+            "name": "garlic powder",
+            "type": "seasoning"
+        },
+        {
+            "quantity": 1,
+            "unit": "large",
+            "name": "egg",
+            "prep": "beaten",
+            "type": "egg"
+        },
+        {
+            "quantity": 0.25,
+            "unit": "cups",
+            "name": "vegetable oil",
+            "type": "oil"
+        },
+        {
+            "quantity": 0,
+            "unit": "to taste",
+            "name": "salt",
+            "type": "seasoning"
+        },
+        {
+            "quantity": 0,
+            "unit": "to taste",
+            "name": "pepper",
+            "type": "seasoning"
+        },
+        {
+            "quantity": 6,
+            "unit": "tbsp",
+            "name": "spaghetti sauce",
+            "type": "sauce"
+        },
+        {
+            "quantity": 4,
+            "unit": "ounces",
+            "name": "mozzarella cheese",
+            "prep": "shredded",
+            "type": "cheese"
+        },
+        {
+            "quantity": 2,
+            "unit": "tbsp",
+            "name": "parmesan cheese",
+            "type": "cheese"
+        }
+    ],
+    "steps": [
+        "Cut each chicken breast in half to make 2 servings from each; cover with plastic wrap and flatten.",
+        "Mix 1/2 cup parmesan, almond flour, garlic powder and Italian seasoning in a shallow dish or pie plate.",
+        "Put the beaten egg in a separate shallow dish or pie plate.",
+        "Dip each chicken breast in egg to coat, then lightly coat them with parmesan-almond mixture.",
+        "Heat the oil in a large skillet over medium heat.",
+        "Fry the chicken in hot oil until browned and the meat is almost done, but still slightly pink in the center.",
+        "Place the chicken breasts in a foil-lined and greased rimmed baking sheet; season with salt and pepper.",
+        "Top each with 1 tablespoon of spaghetti sauce, then 1/6 of the mozzarella.",
+        "Sprinkle each with 1 teaspoon parmesan cheese.",
+        "Bake at 350º about 20 minutes until chicken is done and cheese is melted and bubbly."
+    ],
+    "time": {
+        "prep": 0,
+        "total": 0
+    },
+    "servings": 6,
+    "nutrition": [
+        {
+            "type": "calories",
+            "amount": 400,
+            "unit": "kcal"
+        },
+        {
+            "type": "carbs",
+            "amount": 4,
+            "unit": "g"
+        },
+        {
+            "type": "protein",
+            "amount": 29.1,
+            "unit": "g"
+        },
+        {
+            "type": "fat",
+            "amount": 25,
+            "unit": "g"
+        },
+        {
+            "type": "cholesterol",
+            "amount": "-",
+            "unit": "mg"
+        },
+        {
+            "type": "fiber",
+            "amount": 1,
+            "unit": "g"
+        },
+        {
+            "type": "net carbs",
+            "amount": 3,
+            "unit": "g"
+        }
+    ],
+    "imageURL": "images/parmesan-chicken.jpg",
+    "originalURL": "https://www.genaw.com/lowcarb/parmesan_chicken.html"
+}

@@ -1,0 +1,104 @@
+{
+    "name": "Cheesy Bacon Ranch Chicken",
+    "ingredients": [
+        {
+            "quantity": 4,
+            "unit": "slices",
+            "name": "thick-cut bacon",
+            "type": "meat"
+        },
+        {
+            "quantity": 4,
+            "unit": "whole",
+            "name": "chicken breasts",
+            "type": "meat"
+        },
+        {
+            "quantity": 2,
+            "unit": "tsp",
+            "name": "ranch seasoning",
+            "type": "seasoning"
+        },
+        {
+            "quantity": 1.5,
+            "unit": "cups",
+            "name": "mozzarella",
+            "prep": "shredded",
+            "type": "cheese"
+        },
+        {
+            "quantity": 0,
+            "unit": "to taste",
+            "name": "salt",
+            "type": "seasoning"
+        },
+        {
+            "quantity": 0,
+            "unit": "to taste",
+            "name": "pepper",
+            "type": "seasoning"
+        },
+        {
+            "quantity": 0.25,
+            "unit": "cups",
+            "name": "chives",
+            "prep": "chopped",
+            "type": "vegetable"
+        }
+    ],
+    "steps": [
+        "In a large skillet over medium heat, cook bacon, flipping once, until crispy, about 8 minutes. Transfer to a paper towel–lined plate. Drain all but 2 tablespoons of bacon fat from the skillet.",
+        "Season chicken with salt and pepper. Return skillet to medium-high heat, add chicken and cook until golden and just cooked through, about 6 minutes per side.",
+        "Reduce heat to medium and sprinkle chicken with ranch seasoning and top with mozzarella. Cover the skillet and cook, until cheese is melted and bubbly, about 5 minutes.",
+        "Crumble and sprinkle bacon and chives on top before serving."
+    ],
+    "time": {
+        "prep": 10,
+        "total": 35
+    },
+    "servings": 4,
+    "nutrition": [
+        {
+            "type": "calories",
+            "amount": 432,
+            "unit": "kcal"
+        },
+        {
+            "type": "carbs",
+            "amount": 2,
+            "unit": "g"
+        },
+        {
+            "type": "protein",
+            "amount": 52,
+            "unit": "g"
+        },
+        {
+            "type": "fat",
+            "amount": 22,
+            "unit": "g"
+        },
+        {
+            "type": "satured fat",
+            "amount": 10,
+            "unit": "g"
+        },
+        {
+            "type": "sugar",
+            "amount": 0,
+            "unit": "g"
+        },
+        {
+            "type": "fiber",
+            "amount": 0,
+            "unit": "g"
+        },
+        {
+            "type": "sodium",
+            "amount": 749,
+            "unit": "mg"
+        }
+    ],
+    "imageURL": "images/cheesy-bacon-ranch-chicken.jpg",
+    "originalURL": "https://www.delish.com/cooking/recipe-ideas/a27156187/cheesy-bacon-ranch-chicken-reipe/"
+}

@@ -1,0 +1,77 @@
+{
+    "name": "Chicken Skillet with Mushrooms and Parmesan",
+    "ingredients": [
+        {
+            "quantity": 2,
+            "unit": "tbsp",
+            "name": "avocado oil",
+            "type": "oil"
+        },
+        {
+            "quantity": 1.5,
+            "unit": "lbs",
+            "name": "chicken thighs",
+            "type": "meat"
+        },
+        {
+            "quantity": 0,
+            "unit": "to taste",
+            "name": "salt",
+            "type": "seasoning"
+        },
+        {
+            "quantity": 0,
+            "unit": "to taste",
+            "name": "pepper",
+            "type": "seasoning"
+        },
+        {
+            "quantity": 3.25,
+            "unit": "cups",
+            "name": "baby bella mushrooms",
+            "prep": "sliced",
+            "type": "vegetable"
+        },
+        {
+            "quantity": 4,
+            "unit": "cloves",
+            "name": "garlic",
+            "prep": "minced",
+            "type": "vegetable"
+        },
+        {
+            "quantity": 1.5,
+            "unit": "cups",
+            "name": "heavy whipping cream",
+            "type": "cream"
+        },
+        {
+            "quantity": 0.5,
+            "unit": "cups",
+            "name": "parmesan cheese",
+            "prep": "shredded",
+            "type": "cheese"
+        },
+        {
+            "quantity": 1,
+            "unit": "tsp",
+            "name": "parsley",
+            "type": "herb"
+        }
+    ],
+    "steps": [
+        "Over medium heat, in a large skillet, warm the avocado oil. Season the chicken thighs with salt and pepper. Fry in the skillet, until browned and cooked through; remove chicken to a plate with a slotted spoon, reserving juices in the pan.",
+        "Add garlic to the frying pan and stir-fry until soft; add mushrooms and sauté until softened, for about 5-7 minutes.",
+        "Over medium-low heat, add heavy cream, stirring well. Allow to simmer for about 10 minutes stirring often. Stir in parmesan cheese until melted. Add additional salt and pepper to taste.",
+        "Add chicken back into skillet and coat with sauce. Serve garnished with parsley."
+    ],
+    "time": {
+        "prep": 0,
+        "total": 40
+    },
+    "servings": 4,
+    "nutrition": [
+    ],
+    "imageURL": "images/creamy_parmesan_mushroom_chicken.png",
+    "originalURL": "https://www.dietdoctor.com/recipes/keto-lisas-chicken-skillet-with-mushrooms-and-parmesan"
+}

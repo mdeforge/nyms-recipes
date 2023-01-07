@@ -1,0 +1,125 @@
+{
+    "name": "Garlicky Greek Chicken",
+    "ingredients": [
+        {
+            "quantity": 3,
+            "unit": "tbsp",
+            "name": "extra virgin olive oil",
+            "type": "oil"
+        },
+        {
+            "quantity": 1,
+            "unit": "whole",
+            "name": "lemon",
+            "prep": "squeezed",
+            "type": "fruit"
+        },
+        {
+            "quantity": 3,
+            "unit": "cloves",
+            "name": "garlic",
+            "prep": "minced",
+            "type": "vegetable"
+        },
+        {
+            "quantity": 1,
+            "unit": "tsp",
+            "name": "dried oregano",
+            "type": "herb"
+        },
+        {
+            "quantity": 1,
+            "unit": "lbs",
+            "name": "chicken thigh",
+            "type": "meat"
+        },
+        {
+            "quantity": 0,
+            "unit": "to taste",
+            "name": "salt",
+            "type": "seasoning"
+        },
+        {
+            "quantity": 0,
+            "unit": "to taste",
+            "name": "pepper",
+            "type": "seasoning"
+        },
+        {
+            "quantity": 0.5,
+            "unit": "lbs",
+            "name": "asparagus",
+            "prep": "ends removed",
+            "type": "vegetable"
+        },
+        {
+            "quantity": 1,
+            "unit": "whole",
+            "name": "zucchini",
+            "prep": "sliced into half moons",
+            "type": "vegetable"
+        },
+        {
+            "quantity": 1,
+            "unit": "whole",
+            "name": "lemon",
+            "prep": "sliced",
+            "type": "fruit"
+        }
+    ],
+    "steps": [
+        "In a large bowl, combine 2 tablespoons olive oil, lemon juice, garlic, and oregano.",
+        "Whisk until combined then add chicken thighs and toss to coat.",
+        "Cover bowl with plastic wrap and let marinate in the refrigerator for at least 15 minutes and up to 2 hours.",
+        "When you’re ready to cook the chicken, preheat oven to 425°.",
+        "In a large ovenproof skillet over medium-high heat, heat remaining tablespoon olive oil.",
+        "Season both sides of marinated chicken with salt and pepper, then add chicken skin-side down and pour in the remaining marinade.",
+        "Sear until the skin becomes golden and crispy, about 10 minutes.",
+        "Flip chicken and add asparagus, zucchini and lemons to the skillet.",
+        "Transfer pan to oven and cook until the chicken is cooked through and the vegetables are tender, about 15 minutes"
+    ],
+    "time": {
+        "prep": 20,
+        "total": 50
+    },
+    "servings": 4,
+    "nutrition": [
+        {
+            "type": "calories",
+            "amount": 400,
+            "unit": "kcal"
+        },
+        {
+            "type": "carbs",
+            "amount": 4,
+            "unit": "g"
+        },
+        {
+            "type": "protein",
+            "amount": 29.1,
+            "unit": "g"
+        },
+        {
+            "type": "fat",
+            "amount": 25,
+            "unit": "g"
+        },
+        {
+            "type": "cholesterol",
+            "amount": "-",
+            "unit": "mg"
+        },
+        {
+            "type": "fiber",
+            "amount": 1,
+            "unit": "g"
+        },
+        {
+            "type": "net carbs",
+            "amount": 3,
+            "unit": "g"
+        }
+    ],
+    "imageURL": "images/garlicky-greek-chicken.jpg",
+    "originalURL": "https://www.delish.com/cooking/recipe-ideas/a54115/garlicky-greek-chicken-recipe/"
+}

@@ -1,0 +1,107 @@
+{
+    "name": "Garlic Lemon Pork Chops",
+    "ingredients": [
+        {
+            "quantity": 5,
+            "unit": "oz",
+            "name": "butter",
+            "type": "butter"
+        },
+        {
+            "quantity": 0.5,
+            "unit": "tbsp",
+            "name": "garlic powder",
+            "type": "seasoning"
+        },
+        {
+            "quantity": 1,
+            "unit": "tbsp",
+            "name": "dried parsley",
+            "type": "herb"
+        },
+        {
+            "quantity": 0.5,
+            "unit": "whole",
+            "name": "lemon",
+            "prep": "squeezed",
+            "type": "fruit"
+        },
+        {
+            "quantity": 1.5,
+            "unit": "lbs",
+            "name": "pork chop",
+            "type": "meat"
+        },
+        {
+            "quantity": 2,
+            "unit": "oz",
+            "name": "butter",
+            "type": "butter"
+        },
+        {
+            "quantity": 1,
+            "unit": "lbs",
+            "name": "green beans",
+            "type": "vegetable"
+        },
+        {
+            "quantity": 0,
+            "unit": "to taste",
+            "name": "pepper",
+            "type": "seasoning"
+        },
+        {
+            "quantity": 0,
+            "unit": "to taste",
+            "name": "salt",
+            "type": "seasoning"
+        }
+    ],
+    "steps": [
+        "Mix butter, garlic, parsley, and lemon juice. Season with salt and pepper to taste. Set aside.",
+        "Make a few small cuts in the fat surrounding the chops to help them stay flat when frying. Season with salt and pepper.",
+        "In a large frying pan, melt the butter over medium-high heat. Add the chops and fry for about 5 minutes on each side or until golden brown and thoroughly cooked through.",
+        "Remove the chops from the pan and keep warm.",
+        "Use the same skillet and add the beans. Salt and pepper to taste. Cook over medium-high heat until the beans have a vibrant color and are slightly softened but still a bit crunchy.",
+        "Serve the pork chops and beans together with a dollop of garlic butter melting on top."
+    ],
+    "time": {
+        "prep": 0,
+        "total": 0
+    },
+    "servings": 4,
+    "nutrition": [
+        {
+            "type": "calories",
+            "amount": 0,
+            "unit": "kcal"
+        },
+        {
+            "type": "carbs",
+            "amount": 0,
+            "unit": "g"
+        },
+        {
+            "type": "protein",
+            "amount": 0,
+            "unit": "g"
+        },
+        {
+            "type": "fat",
+            "amount": 0,
+            "unit": "g"
+        },
+        {
+            "type": "satured fat",
+            "amount": 0,
+            "unit": "g"
+        },
+        {
+            "type": "fiber",
+            "amount": 0,
+            "unit": "g"
+        }
+    ],
+    "imageURL": "images/garlic-lemon-pork-chops.png",
+    "originalURL": "https://www.dietdoctor.com/recipes/pork-chops-green-beans-garlic-butter"
+}
