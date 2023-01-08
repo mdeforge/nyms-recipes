@@ -1,0 +1,104 @@
+{
+    "name": "Worcestershire Beef Burgers",
+    "ingredients": [
+        {
+            "quantity": 1.5,
+            "unit": "lbs",
+            "name": "ground beef",
+            "type": "meat"
+        },
+        {
+            "quantity": 2,
+            "unit": "tsp",
+            "name": "onion powder",
+            "type": "seasoning"
+        },
+        {
+            "quantity": 1,
+            "unit": "tsp",
+            "name": "garlic powder",
+            "type": "seasoning"
+        },
+        {
+            "quantity": 1.5,
+            "unit": "tbsp",
+            "name": "worcestershire sauce",
+            "type": "sauce"
+        },
+        {
+            "quantity": 8,
+            "unit": "leaves",
+            "name": "lettuce",
+            "type": "vegetable"
+        },
+        {
+            "quantity": 4,
+            "unit": "tbsp",
+            "name": "mayonnaise",
+            "type": "sauce"
+        },
+        {
+            "quantity": 1,
+            "unit": "whole",
+            "name": "tomato",
+            "prep": "sliced",
+            "type": "vegetable"
+        },
+        {
+            "quantity": 4,
+            "unit": "slices",
+            "name": "cheddar cheese",
+            "type": "cheese"
+        },
+        {
+            "quantity": 0,
+            "unit": "to taste",
+            "name": "salt",
+            "type": "seasoning"
+        },
+        {
+            "quantity": 0,
+            "unit": "to taste",
+            "name": "pepper",
+            "type": "seasoning"
+        }
+    ],
+    "steps": [
+        "Preheat the Air Fryer to 370°F.",
+        "In a mixing bowl, combine the ground beef, salt, black pepper, onion powder, garlic powder and Worcestershire sauce using your hands.",
+        "Form 4 patties out of the mixture.",
+        "Place the patties in the fryer basket making sure to leave enough space between them.",
+        "Cook for 10 minutes. Turn the beef with kitchen tongs and cook further for 5 minutes.",
+        "Remove the patties onto a plate.",
+        "Assemble burgers with lettuce, mayonnaise, sliced cheese, and sliced tomato."
+    ],
+    "time": {
+        "prep": 0,
+        "total": 25
+    },
+    "servings": 4,
+    "nutrition": [
+        {
+            "type": "calories",
+            "amount": 421,
+            "unit": "kcal"
+        },
+        {
+            "type": "net carbs",
+            "amount": 3.2,
+            "unit": "g"
+        },
+        {
+            "type": "protein",
+            "amount": 21,
+            "unit": "g"
+        },
+        {
+            "type": "fat",
+            "amount": 39,
+            "unit": "g"
+        }
+    ],
+    "imageURL": "",
+    "originalURL": ""
+}
