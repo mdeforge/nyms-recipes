@@ -1,0 +1,104 @@
+{
+    "name": "Crispy Chicken Strips with Chili Mayo Dip",
+    "ingredients": [
+        {
+            "quantity": 4,
+            "unit": "tbsp",
+            "name": "canola oil",
+            "type": "oil"
+        },
+        {
+            "quantity": 3,
+            "unit": "whole",
+            "name": "chicken breast",
+            "prep": "strips",
+            "type": "meat"
+        },
+        {
+            "quantity": 1,
+            "unit": "cup",
+            "name": "pork rinds",
+            "prep": "crushed",
+            "type": "fat"
+        },
+        {
+            "quantity": 0.5,
+            "unit": "tsp",
+            "name": "garlic powder",
+            "type": "seasoning"
+        },
+        {
+            "quantity": 0.5,
+            "unit": "tsp",
+            "name": "paprika",
+            "type": "seasoning"
+        },
+        {
+            "quantity": 0.5,
+            "unit": "cup",
+            "name": "mayonnaise",
+            "type": "sauce"
+        },
+        {
+            "quantity": 2,
+            "unit": "tbsp",
+            "name": "lemon juice",
+            "type": "fruit"
+        },
+        {
+            "quantity": 0.5,
+            "unit": "tsp",
+            "name": "ground chili",
+            "type": "seasoning"
+        },
+        {
+            "quantity": 0,
+            "unit": "to taste",
+            "name": "salt",
+            "type": "seasoning"
+        },
+        {
+            "quantity": 0,
+            "unit": "to taste",
+            "name": "pepper",
+            "type": "seasoning"
+        }
+    ],
+    "steps": [
+        "Preheat your Air Fryer to 360°F.",
+        "On a plate, combine the pork rinds, salt, pepper, garlic powder, and paprika.",
+        "Brush the chicken with oil and dip in the rinds mixture.",
+        "Grease the fryer basket with oil and place in the chicken.",
+        "Cook for 6 minutes. Flip the chicken once during the cooking time.",
+        "Combine the mayo with 2 tbsp of lemon juice and ground chili. Serve the chicken with the dip."
+    ],
+    "time": {
+        "prep": 0,
+        "total": 15
+    },
+    "servings": 4,
+    "nutrition": [
+        {
+            "type": "calories",
+            "amount": 498,
+            "unit": "kcal"
+        },
+        {
+            "type": "net carbs",
+            "amount": 2.1,
+            "unit": "g"
+        },
+        {
+            "type": "protein",
+            "amount": 41,
+            "unit": "g"
+        },
+        {
+            "type": "fat",
+            "amount": 38,
+            "unit": "g"
+        }
+    ],
+    "imageURL": "",
+    "originalURL": ""
+}
