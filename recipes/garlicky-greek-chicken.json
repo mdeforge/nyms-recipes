@@ -1,5 +1,7 @@
 {
     "name": "Garlicky Greek Chicken",
+    "servings": 4,
+    "points-per-serving": 11,
     "ingredients": [
         {
             "quantity": 3,
@@ -82,7 +84,6 @@
         "prep": 20,
         "total": 50
     },
-    "servings": 4,
     "nutrition": [
         {
             "type": "calories",

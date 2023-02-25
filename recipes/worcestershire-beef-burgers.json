@@ -1,5 +1,7 @@
 {
     "name": "Worcestershire Beef Burgers",
+    "servings": 4,
+    "points-per-serving": 12,
     "ingredients": [
         {
             "quantity": 1.5,
@@ -76,7 +78,6 @@
         "prep": 0,
         "total": 25
     },
-    "servings": 4,
     "nutrition": [
         {
             "type": "calories",

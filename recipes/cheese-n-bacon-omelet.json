@@ -1,5 +1,7 @@
 {
     "name": "Cheese N' Bacon Omelet",
+    "servings": 1,
+    "points-per-serving": 14,
     "ingredients": [
         {
             "quantity": 3,
@@ -48,7 +50,6 @@
         "prep": 0,
         "total": 0
     },
-    "servings": 6,
     "nutrition": [
         {
             "type": "calories",

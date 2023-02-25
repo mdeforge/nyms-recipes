@@ -1,5 +1,7 @@
 {
     "name": "Cheesy Bacon Ranch Chicken",
+    "servings": 4,
+    "points-per-serving": 12,
     "ingredients": [
         {
             "quantity": 4,
@@ -56,7 +58,6 @@
         "prep": 10,
         "total": 35
     },
-    "servings": 4,
     "nutrition": [
         {
             "type": "calories",

@@ -1,5 +1,7 @@
 {
     "name": "Cheesesteak Stuffed Peppers",
+    "servings": 4,
+    "points-per-serving": 30,
     "ingredients": [
         {
             "quantity": 4,
@@ -62,36 +64,44 @@
         "prep": 10,
         "total": 35
     },
-    "servings": 4,
     "nutrition": [
         {
             "type": "calories",
-            "amount": 0,
+            "amount": 872,
             "unit": "kcal"
         },
         {
-            "type": "carbs",
-            "amount": 0,
-            "unit": "g"
-        },
-        {
-            "type": "protein",
-            "amount": 0,
-            "unit": "g"
-        },
-        {
             "type": "fat",
-            "amount": 0,
+            "amount": 58,
             "unit": "g"
         },
         {
-            "type": "satured fat",
-            "amount": 0,
+            "type": "saturated fat",
+            "amount": 29,
+            "unit": "g"
+        },
+        {
+            "type": "sodium",
+            "amount": 1310
+        },
+        {
+            "type": "carbs",
+            "amount": 15,
             "unit": "g"
         },
         {
             "type": "fiber",
-            "amount": 0,
+            "amount": 5,
+            "unit": "g"
+        },
+        {
+            "type": "sugar",
+            "amount": 9,
+            "unit": "g"
+        },
+        {
+            "type": "protein",
+            "amount": 67,
             "unit": "g"
         }
     ],

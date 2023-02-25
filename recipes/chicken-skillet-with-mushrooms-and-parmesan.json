@@ -1,5 +1,7 @@
 {
     "name": "Chicken Skillet with Mushrooms and Parmesan",
+    "servings": 4,
+    "points-per-serving": 16,
     "ingredients": [
         {
             "quantity": 2,
@@ -69,8 +71,47 @@
         "prep": 0,
         "total": 40
     },
-    "servings": 4,
     "nutrition": [
+        {
+            "type": "calories",
+            "amount": 629,
+            "unit": "kcal"
+        },
+        {
+            "type": "fat",
+            "amount": 49,
+            "unit": "g"
+        },
+        {
+            "type": "saturated fat",
+            "amount": -1,
+            "unit": "g"
+        },
+        {
+            "type": "carbs",
+            "amount": 6,
+            "unit": "g"
+        },
+        {
+            "type": "protein",
+            "amount": 42,
+            "unit": "g"
+        },
+        {
+            "type": "sugar",
+            "amount": -1,
+            "unit": "g"
+        },
+        {
+            "type": "fiber",
+            "amount": 1,
+            "unit": "g"
+        },
+        {
+            "type": "sodium",
+            "amount": -1,
+            "unit": "mg"
+        }
     ],
     "imageURL": "images/creamy_parmesan_mushroom_chicken.png",
     "originalURL": "https://www.dietdoctor.com/recipes/keto-lisas-chicken-skillet-with-mushrooms-and-parmesan"

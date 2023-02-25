@@ -1,5 +1,7 @@
 {
     "name": "Mexican Cauliflower Rice",
+    "servings": 6,
+    "points-per-serving": 7,
     "ingredients": [
         {
             "quantity": 1,
@@ -64,7 +66,6 @@
         "prep": 0,
         "total": 25
     },
-    "servings": 6,
     "nutrition": [
         {
             "type": "calories",

@@ -1,5 +1,7 @@
 {
     "name": "Parmesan Chicken",
+    "servings": 6,
+    "points-per-serving": 9,
     "ingredients": [
         {
             "quantity": 3,
@@ -86,7 +88,6 @@
         "prep": 0,
         "total": 0
     },
-    "servings": 6,
     "nutrition": [
         {
             "type": "calories",

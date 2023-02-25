@@ -1,5 +1,7 @@
 {
     "name": "Garlic Rosemary Pork Chops",
+    "servings": 4,
+    "points-per-serving": 17,
     "ingredients": [
         {
             "quantity": 4,
@@ -57,7 +59,6 @@
         "prep": 10,
         "total": 30
     },
-    "servings": 4,
     "nutrition": [
         {
             "type": "calories",
@@ -80,7 +81,7 @@
             "unit": "g"
         },
         {
-            "type": "satured fat",
+            "type": "saturated fat",
             "amount": 17,
             "unit": "g"
         },

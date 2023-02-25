@@ -1,5 +1,7 @@
 {
     "name": "Fathead Pizza",
+    "servings": 4,
+    "points-per-serving": 15,
     "ingredients": [
         {
             "quantity": 1.5,
@@ -89,36 +91,40 @@
         "prep": 10,
         "total": 35
     },
-    "servings": 4,
     "nutrition": [
         {
             "type": "calories",
-            "amount": 0,
+            "amount": 608,
             "unit": "kcal"
         },
         {
-            "type": "carbs",
-            "amount": 0,
-            "unit": "g"
-        },
-        {
-            "type": "protein",
-            "amount": 0,
-            "unit": "g"
-        },
-        {
             "type": "fat",
-            "amount": 0,
+            "amount": 49,
             "unit": "g"
         },
         {
-            "type": "satured fat",
-            "amount": 0,
+            "type": "saturated fat",
+            "amount": -1,
+            "unit": "g"
+        },
+        {
+            "type": "sodium",
+            "amount": -1,
+            "unit": "g"
+        },
+        {
+            "type": "carbs",
+            "amount": 8,
             "unit": "g"
         },
         {
             "type": "fiber",
-            "amount": 0,
+            "amount": 3,
+            "unit": "g"
+        },
+        {
+            "type": "protein",
+            "amount": 33,
             "unit": "g"
         }
     ],

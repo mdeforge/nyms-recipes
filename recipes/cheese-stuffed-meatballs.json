@@ -1,5 +1,7 @@
 {
     "name": "Cheese-Stuffed Meatballs",
+    "servings": 4,
+    "points-per-serving": 10,
     "ingredients": [
         {
             "quantity": 0.5,
@@ -89,7 +91,6 @@
         "prep": 0,
         "total": 30
     },
-    "servings": 4,
     "nutrition": [
         {
             "type": "calories",

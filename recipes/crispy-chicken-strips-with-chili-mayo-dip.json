@@ -1,5 +1,7 @@
 {
     "name": "Crispy Chicken Strips with Chili Mayo Dip",
+    "servings": 4,
+    "points-per-serving": 13,
     "ingredients": [
         {
             "quantity": 4,
@@ -76,7 +78,6 @@
         "prep": 0,
         "total": 15
     },
-    "servings": 4,
     "nutrition": [
         {
             "type": "calories",
