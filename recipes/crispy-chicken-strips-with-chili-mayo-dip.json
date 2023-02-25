@@ -48,7 +48,7 @@
         {
             "quantity": 0.5,
             "unit": "tsp",
-            "name": "ground chili",
+            "name": "chili powder",
             "type": "seasoning"
         },
         {
@@ -70,7 +70,7 @@
         "Brush the chicken with oil and dip in the rinds mixture.",
         "Grease the fryer basket with oil and place in the chicken.",
         "Cook for 6 minutes. Flip the chicken once during the cooking time.",
-        "Combine the mayo with 2 tbsp of lemon juice and ground chili. Serve the chicken with the dip."
+        "Combine the mayo with 2 tbsp of lemon juice and chili powder. Serve the chicken with the dip."
     ],
     "time": {
         "prep": 0,

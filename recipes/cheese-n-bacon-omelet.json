@@ -3,7 +3,7 @@
     "ingredients": [
         {
             "quantity": 3,
-            "unit": "whole",
+            "unit": "large",
             "name": "eggs",
             "type": "protein"
         },

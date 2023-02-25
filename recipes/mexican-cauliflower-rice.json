@@ -16,7 +16,7 @@
         },
         {
             "quantity": 0.5,
-            "unit": "pepper",
+            "unit": "whole",
             "name": "red pepper",
             "prep": "diced",
             "type": "vegetable"
